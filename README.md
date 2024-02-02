@@ -1,6 +1,6 @@
 # Transformers
 
-In this repo, I will describe several pre-trained models using natural language processing with the ## Transformers book such as.
+In this repo, I will describe several pre-trained models using natural language processing with the Transformers book such as.
 
 1- `BERT ( Bidirectional Encoder Representations from Transformers)`
 
